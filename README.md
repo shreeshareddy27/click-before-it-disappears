@@ -1,4 +1,4 @@
-# 🎯 Click Before It Disappears
+Click Before It Disappears
 
 A fast-paced reaction game built for fun and learning.
 
@@ -7,9 +7,9 @@ A fast-paced reaction game built for fun and learning.
 🏆 Simple, addictive gameplay
 
 🕹 Live Demo
-👉 [https://YOUR_USERNAME.github.io/click-before-it-disappears/](https://codepen.io/shreeshareddy27/pen/VYjwXLx)
+👉 https://shreeshareddy27.github.io/click-before-it-disappears/
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 - HTML
 - CSS
 - JavaScript
